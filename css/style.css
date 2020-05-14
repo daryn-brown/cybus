@@ -10011,3 +10011,8 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.progressive-logo {
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
